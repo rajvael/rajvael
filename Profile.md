@@ -1,5 +1,5 @@
 Myself rajkumar selvam 15+ years of experience in Java Web app and application development. 
-Expert in application architecture, Spring framework, Niagara Framework and latest framworks.
+Expert in application architecture, Spring framework, Niagara Framework and latest technologies.
 Very good hands on knowlege in Microsoft Azure cloud. Learning new things in Azure as a practice.
 
 Very storng in debugging and analyze issues in application and deployment environment. 
@@ -18,3 +18,4 @@ Secondary Skills:
 3) Web API
 4) ReactJs
 5) Html5 and CSS3
+6) Python
